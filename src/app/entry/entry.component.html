@@ -1,3 +1,18 @@
-<p>
-  entry works! {{entry}}
-</p>
+<div class="content">
+    <div class="content-box" *ngFor="let dat of data">
+      <h2>
+        {{ dat.title }}
+      </h2>
+      <div>
+        {{ dat.date }}    
+      </div>
+      <div>
+        {{ dat.description }}    
+      </div>
+      <div>
+          <div class="content-box_tag" *ngFor="let tag of dat.tags">
+            {{ tag }}
+          </div>
+      </div>
+    </div>
+  </div>

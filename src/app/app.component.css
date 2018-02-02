@@ -1,0 +1,34 @@
+
+.content {
+    width:900px;
+    display: flex;
+    font-family: 'Lato', sans-serif;
+    margin: 0 auto;
+}
+
+.content-box {
+    padding: 15px;
+    max-width: 25%;
+    height: auto;
+    background-color: darkslategrey;
+    color: white;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.content-box:hover {
+    background-color: rgb(56, 97, 97);
+}
+
+.content-box_tag {
+    width: 90px;
+    background-color: rgb(109, 177, 154);
+    border-radius: 3px;
+    margin: 2px;
+    text-align: center;
+    padding: 4px;
+}
+
+h2 {
+    font-family: 'Roboto Condensed', sans-serif;
+}

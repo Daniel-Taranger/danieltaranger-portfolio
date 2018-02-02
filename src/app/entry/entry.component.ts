@@ -1,14 +1,21 @@
+import { Http} from '@angular/http';
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-entry',
+  selector: 'entry-generator',
   templateUrl: './entry.component.html',
   styleUrls: ['./entry.component.css']
 })
 export class EntryComponent{
+  data;
+    constructor(private http:Http) {
+        this.http.get('./assets/data.json')
+                .subscribe(res => this.data = res.json());
 
-  generateEntry(): string{
-    var entry = 'something cool';
-    return entry;
   }
+
+  getdata() {
+    return this.data;
+  }
+
 }

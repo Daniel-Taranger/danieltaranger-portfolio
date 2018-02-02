@@ -1,4 +1,5 @@
-import { Component } from '@angular/core';
+import { Http} from '@angular/http';
+import { Component, OnInit } from '@angular/core';
 import { EntryComponent} from './entry/entry.component';
 
 @Component({
@@ -6,10 +7,9 @@ import { EntryComponent} from './entry/entry.component';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
-export class AppComponent {
 
-    constructor(){
-      let entry = new EntryComponent;
-      let title = entry.generateEntry();
-    }
+export class AppComponent {
+  
+  constructor() {
+  }
 }
