@@ -3,9 +3,19 @@
         "id": "c01",
         "title": "Random pixel icon generator",
         "type": "music",
-        "date": "03/15/2017",
+        "date": "01/11/2011",
         "description": "This was a fun little experiment i did and used to generate icons for my echo system project. A random string of 1's and 0's are generated and translated into pixels with color and transparency.",
         "img": "bit.jpg",
+        "links": [
+            {"title": "linken0",
+             "link": "http:www.google.com"},
+             
+            {"title": "linken1",
+             "link": "http:www.google.com"},
+             
+            {"title": "linken2",
+             "link": "http:www.google.com"}
+        ],
         "tags": [
             "HTML",
             "CSS",
@@ -15,63 +25,59 @@
         ]
     },
     {
-        "id": "c02",
-        "title": "Random pixel icon generator",
-        "type": "music",
-        "date": "04/12/2017",
-        "description": "This was a fun litt are generated and translated into pixels with color and transparency.",
-        "img": "bit.jpg",
+        "id": "c06",
+        "title": "Neon",
+        "type": "photo",
+        "date": "12/12/2017",
+        "description": "This image was taken something something.",
+        "img": "nightneon.jpg",
         "tags": [
-            "HTML",
-            "CSS",
-            "jQuery",
-            "Javascript",
-            "PHP"
+            "Sony",
+            "a7s",
+            "photography",
+            "night"
         ]
     },
     {
-        "id": "c03",
-        "title": "Random pixel icon generator",
-        "type": "music",
-        "date": "02/11/2017",
-        "description": "This was a fun litt are generated and translated into pixels with color and transparency.",
-        "img": "bit.jpg",
+        "id": "c07",
+        "title": "Worker at night",
+        "type": "photo",
+        "date": "12/12/2017",
+        "description": "This image was taken something something.",
+        "img": "worker.jpg",
         "tags": [
-            "HTML",
-            "CSS",
-            "jQuery",
-            "Javascript",
-            "PHP"
+            "Sony",
+            "a7s",
+            "photography",
+            "night"
         ]
     },
     {
-        "id": "c04",
-        "title": "Random pixel icon generator",
-        "type": "music",
-        "date": "09/23/2017",
-        "description": "This was a fun litt are generated and translated into pixels with color and transparency.",
-        "img": "bit.jpg",
+        "id": "c08",
+        "title": "Railway",
+        "type": "photo",
+        "date": "13/12/2017",
+        "description": "This image was taken something something.",
+        "img": "rail.jpg",
         "tags": [
-            "HTML",
-            "CSS",
-            "jQuery",
-            "Javascript",
-            "PHP"
+            "Sony",
+            "a7s",
+            "photography",
+            "night"
         ]
     },
     {
-        "id": "c05",
-        "title": "Heroclicker incremental game",
-        "type": "music",
-        "date": "03/11/2016",
-        "description": "This was a fun litt are generated and translated into pixels with color and transparency.",
-        "img": "click1.jpg",
+        "id": "c09",
+        "title": "Exit",
+        "type": "photo",
+        "date": "18/11/2017",
+        "description": "This image was taken something something.",
+        "img": "exit.jpg",
         "tags": [
-            "HTML",
-            "CSS",
-            "jQuery",
-            "Javascript",
-            "PHP"
+            "Sony",
+            "a7s",
+            "photography",
+            "night"
         ]
     }
 ]
