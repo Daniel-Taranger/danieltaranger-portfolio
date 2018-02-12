@@ -1,18 +1,17 @@
-<div class="content">
-    <div class="content-box" *ngFor="let dat of data">
-      <h2>
+<div class="menu">
+    <button (click)="sortData('newest')">Newest</button>
+    <button (click)="sortData('oldest')">Oldest</button>
+    <button (click)="parseDates()">Parse</button>
+</div>
+
+<div class="entry">
+     <div class="entry-box" *ngFor="let dat of data">
+      <img src="assets/img/content/{{ dat.img }}" class="entry-box_background" alt="">
+      <h2 class="entry-box_title">
         {{ dat.title }}
       </h2>
-      <div>
+      <p class="entry-box_date">
         {{ dat.date }}    
-      </div>
-      <div>
-        {{ dat.description }}    
-      </div>
-      <div>
-          <div class="content-box_tag" *ngFor="let tag of dat.tags">
-            {{ tag }}
-          </div>
-      </div>
+      </p>
     </div>
   </div>

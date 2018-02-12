@@ -3,7 +3,7 @@
         "id": "c01",
         "title": "Random pixel icon generator",
         "type": "music",
-        "date": "15.03.2017",
+        "date": "03/15/2017",
         "description": "This was a fun little experiment i did and used to generate icons for my echo system project. A random string of 1's and 0's are generated and translated into pixels with color and transparency.",
         "img": "bit.jpg",
         "tags": [
@@ -18,7 +18,7 @@
         "id": "c02",
         "title": "Random pixel icon generator",
         "type": "music",
-        "date": "15.03.2017",
+        "date": "04/12/2017",
         "description": "This was a fun litt are generated and translated into pixels with color and transparency.",
         "img": "bit.jpg",
         "tags": [
@@ -30,10 +30,11 @@
         ]
     },
     {
-        "title": "Randoicon generator",
+        "id": "c03",
+        "title": "Random pixel icon generator",
         "type": "music",
-        "date": "15.03.2017",
-        "description": "This was a fun little experi generate icons for my echo system project. A random string of 1's and 0's are generated and translated into pixels with color and transparency.",
+        "date": "02/11/2017",
+        "description": "This was a fun litt are generated and translated into pixels with color and transparency.",
         "img": "bit.jpg",
         "tags": [
             "HTML",
@@ -44,10 +45,11 @@
         ]
     },
     {
-        "title": "Random pixel irator",
+        "id": "c04",
+        "title": "Random pixel icon generator",
         "type": "music",
-        "date": "15.03.2017",
-        "description": "This was a fun little experiment i did and used to gen translated into pixels with color and transparency.",
+        "date": "09/23/2017",
+        "description": "This was a fun litt are generated and translated into pixels with color and transparency.",
         "img": "bit.jpg",
         "tags": [
             "HTML",
@@ -58,39 +60,12 @@
         ]
     },
     {
-        "title": "Random pixel on generator",
+        "id": "c05",
+        "title": "Heroclicker incremental game",
         "type": "music",
-        "date": "15.03.2017",
-        "description": "This was a fun lie generated ao pixels with color and transparency.",
-        "img": "bit.jpg",
-        "tags": [
-            "HTML",
-            "CSS",
-            "jQuery",
-            "Javascript",
-            "PHP"
-        ]
-    },
-    {
-        "title": "Randonerator",
-        "type": "music",
-        "date": "15.03.2017",
-        "description": "This was a fun little ent i did and used to generate icons for my echo ject. A random string of 1's and 0's are generated and translated into pixels with color and transparency.",
-        "img": "bit.jpg",
-        "tags": [
-            "HTML",
-            "CSS",
-            "jQuery",
-            "Javascript",
-            "PHP"
-        ]
-    },
-    {
-        "title": "Randenerator",
-        "type": "music",
-        "date": "15.03.2017",
-        "description": "This was a fun little experimem project. A random string of 1's and 0's are generated and translated into pixels with color and transparency.",
-        "img": "bit.jpg",
+        "date": "03/11/2016",
+        "description": "This was a fun litt are generated and translated into pixels with color and transparency.",
+        "img": "click1.jpg",
         "tags": [
             "HTML",
             "CSS",

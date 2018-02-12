@@ -1,0 +1,28 @@
+.menu {
+    background-color: rgb(143, 107, 131);
+    text-align: center;
+    height: 100px;
+}
+
+a {
+    background-color: rgb(216, 3, 134);
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+    border: none;
+    border-radius: 3px;
+
+    &:hover {
+        background-color: rgb(145, 27, 96);
+    }
+}
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+}
+
+li {
+    display: inline-block;
+}
